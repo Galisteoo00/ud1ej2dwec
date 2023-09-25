@@ -1,6 +1,4 @@
 # ud1ej2dwec
-## Unidad 1 ej3
-
 ### async vs defer attributes
 
 async y defer se utiliza para controlar el comportamiento de los scripts en HTML.
